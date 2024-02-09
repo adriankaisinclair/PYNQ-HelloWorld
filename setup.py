@@ -69,7 +69,7 @@ setup(
     entry_points={
         "pynq.notebooks": [
             "pynq-helloworld = {}.notebooks.{}".format(
-                module_name, get_platform())
+                module_name, "zcu111")
         ]
     },
     cmdclass={"build_py": build_py}
