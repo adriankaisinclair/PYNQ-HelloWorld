@@ -54,7 +54,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Xilinx PYNQ Development Team',
     author_email="pynq_support@xilinx.com",
-    url='https://github.com/Xilinx/PYNQ-HelloWorld.git',
+    url='https://github.com/adriankaisinclair/PYNQ-HelloWorld.git',
     license='BSD 3-Clause License',
     packages=find_packages(),
     package_data={
